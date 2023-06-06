@@ -1,0 +1,35 @@
+#nav {
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin-top: 10px;
+}
+
+#nav > a {
+    color: rgba(53, 7, 97, 0.5);
+}
+
+#header {
+    margin-top: 35px;
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#firstList {
+    margin-top: 35px;
+    padding-left: 20px;
+}
+
+#number {
+    width: 90px;
+    margin-top: 10px;
+}
+
+.functionTest {
+    color: rgba(53, 7, 97, 0.5)
+}
+
+.functionTest1 {
+    color: blue;
+}

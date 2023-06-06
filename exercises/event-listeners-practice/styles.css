@@ -1,0 +1,12 @@
+#square {
+    width: 250px;
+    height: 250px;
+    background-color: antiquewhite;
+    display:flex;
+    margin:auto
+}
+
+.h3 {
+    text-align: center;
+}
+
